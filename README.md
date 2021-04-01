@@ -9,4 +9,9 @@ Although IBM RPA IVA offer fast and convenient way to provide chatbot interface 
 
 This Github repository explains the things you need to be aware of when integrating IBM Watson Assistant with IBM RPA and also provides an example implementation that you can use to test the integration also yourself.
 
-## Integration with IBM Watson Assistant (WA)
+## Integration with IBM Watson Assistant
+IBM Watson Assistant (WA) is one of the leading enterprise chatbot/AI solutions. The customers using it are from different industries and sizes.
+
+![](./Images/Watson_customers.PNG)
+
+Xxxx
