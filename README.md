@@ -1,4 +1,4 @@
-# IBM RPA Watson Assistant Integration
+# IBM RPA Watson Assistant Integration // WORK IN PROGRESS
 
 ## Introduction
 July 8th, 2020 IBM announced acquiring WDG Automation to strengthen IBM DBA portfolio (https://newsroom.ibm.com/2020-07-08-IBM-to-Acquire-WDG-Automation-to-Advance-AI-Infused-Automation-Capabilities-for-Enterprises). Since then, we have already released several new versions of the solution and renamed it as <a href="https://www.ibm.com/support/knowledgecenter/SSTHBP_20.12/kc_welcome_rpa.html">IBM RPA</a>.
@@ -10,8 +10,8 @@ Although IBM RPA IVA offer fast and convenient way to provide chatbot interface 
 This Github repository explains the things you need to be aware of when integrating IBM Watson Assistant with IBM RPA and also provides an example implementation that you can use to test the integration also yourself.
 
 ## Integration with IBM Watson Assistant
-IBM Watson Assistant (WA) is one of the leading enterprise chatbot/AI solutions. The customers using it are from different industries and sizes.
+IBM Watson Assistant (WA) is one of the leading enterprise chatbot/AI solutions. It has been named as a leader by both Gartner and Forrester and already has several significant customers from different industries using it.
 
 ![](./images/WA_customers.png)
 
-Xxxx
+Our intention here is not to explain how WA works, but to focus on how to use IBM RPA together with WA.
