@@ -12,6 +12,6 @@ This Github repository explains the things you need to be aware of when integrat
 ## Integration with IBM Watson Assistant
 IBM Watson Assistant (WA) is one of the leading enterprise chatbot/AI solutions. The customers using it are from different industries and sizes.
 
-![](./images/Watson_customers.png)
+![](./images/WA_customers.png)
 
 Xxxx
