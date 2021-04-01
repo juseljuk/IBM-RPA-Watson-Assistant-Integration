@@ -1,4 +1,4 @@
-# IBM RPA Watson Assistant Integration // WORK IN PROGRESS
+# IBM RPA Watson Assistant Integration // WORK IN PROGRESS...
 
 ## Introduction
 July 8th, 2020 IBM announced acquiring WDG Automation to strengthen IBM DBA portfolio (https://newsroom.ibm.com/2020-07-08-IBM-to-Acquire-WDG-Automation-to-Advance-AI-Infused-Automation-Capabilities-for-Enterprises). Since then, we have already released several new versions of the solution and renamed it as <a href="https://www.ibm.com/support/knowledgecenter/SSTHBP_20.12/kc_welcome_rpa.html">IBM RPA</a>.
@@ -14,4 +14,4 @@ IBM Watson Assistant (WA) is one of the leading enterprise chatbot/AI solutions.
 
 ![](./images/WA_customers.png)
 
-Our intention here is not to explain how WA works, but to focus on how to use IBM RPA together with WA. 'And when we say "together with WA", we mean as part of the dialog, where RPA is used to gather or update some data based on the information we gather from the chat user and then send the results back to the user via chat.'
+Our intention here is not to explain how WA works, but to focus on how to use IBM RPA together with WA. `And when we say "together with WA", we mean as part of the dialog, where RPA is used to gather or update some data based on the information we gather from the chat user and then send the results back to the user via chat.`
