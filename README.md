@@ -14,4 +14,4 @@ IBM Watson Assistant (WA) is one of the leading enterprise chatbot/AI solutions.
 
 ![](./images/WA_customers.png)
 
-Our intention here is not to explain how WA works, but to focus on how to use IBM RPA together with WA. And when we say "together with WA", we mean as part of the dialog, where RPA is used to gather or update some data based on the information we gather from the chat user and then send the results back to the user via chat.
+Our intention here is not to explain how WA works, but to focus on how to use IBM RPA together with WA. 'And when we say "together with WA", we mean as part of the dialog, where RPA is used to gather or update some data based on the information we gather from the chat user and then send the results back to the user via chat.'
